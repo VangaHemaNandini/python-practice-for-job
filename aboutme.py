@@ -1,0 +1,6 @@
+name =input("Enter your name:")
+age =input("Enter your age:")
+DOB =input("Enter your Date of birth:")
+print("MY name is",name)
+print("I am",age,"years old")
+print("My date of birth is",DOB)

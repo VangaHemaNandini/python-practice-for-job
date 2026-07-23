@@ -1,0 +1,6 @@
+Tiru_height = int(input("Enter the height of Tiru: "))
+Hema_height = int(input("Enter the height of Hema: "))
+Ekansha_height = int(input("Enter the height of Ekansha: "))
+print("AND:",Tiru_height > Hema_height and Tiru_height > Ekansha_height)
+print("OR:",Tiru_height > Hema_height or Tiru_height > Ekansha_height)
+print("NOT:",not(Tiru_height > Hema_height))

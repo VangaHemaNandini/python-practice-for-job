@@ -1,0 +1,9 @@
+age = int(input("Enter your age: "))
+age += 15
+print("After += :", age)
+age -= 5
+print("After -= :", age)
+age *= 2
+print("After *= :", age)
+age /= 3
+print("After /= :", age)

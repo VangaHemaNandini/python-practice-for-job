@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+print("E in name:", "e" in name)
+print("A in name:", "a" in name)
+print("E not in name:", "e" not in name)
+print("A not in name:", "a" not in name)
